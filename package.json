@@ -21,6 +21,7 @@
     "globby": "^5.0.0",
     "gray-matter": "^2.0.2",
     "handlebars": "^4.0.5",
+    "handlebars-extend-block": "^1.0.0",
     "html-minifier": "^2.1.7",
     "i": "^0.3.5",
     "js-beautify": "^1.6.3",
